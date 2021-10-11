@@ -1,0 +1,15 @@
+C:\Users\MINEDUCYT\source\repos\Estudiante\Estudiante\bin\Debug\Estudiante.exe.config
+C:\Users\MINEDUCYT\source\repos\Estudiante\Estudiante\bin\Debug\Estudiante.exe
+C:\Users\MINEDUCYT\source\repos\Estudiante\Estudiante\bin\Debug\Estudiante.pdb
+C:\Users\MINEDUCYT\source\repos\Estudiante\Estudiante\bin\Debug\EntityFramework.dll
+C:\Users\MINEDUCYT\source\repos\Estudiante\Estudiante\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MINEDUCYT\source\repos\Estudiante\Estudiante\bin\Debug\EntityFramework.xml
+C:\Users\MINEDUCYT\source\repos\Estudiante\Estudiante\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MINEDUCYT\source\repos\Estudiante\Estudiante\obj\Debug\Estudiante.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\source\repos\Estudiante\Estudiante\obj\Debug\Estudiante.Form1.resources
+C:\Users\MINEDUCYT\source\repos\Estudiante\Estudiante\obj\Debug\Estudiante.Properties.Resources.resources
+C:\Users\MINEDUCYT\source\repos\Estudiante\Estudiante\obj\Debug\Estudiante.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\source\repos\Estudiante\Estudiante\obj\Debug\Estudiante.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\Estudiante\Estudiante\obj\Debug\Estudiante.exe
+C:\Users\MINEDUCYT\source\repos\Estudiante\Estudiante\obj\Debug\Estudiante.pdb
+C:\Users\MINEDUCYT\source\repos\Estudiante\Estudiante\obj\Debug\Estudiante.Vistas.Materia.resources
